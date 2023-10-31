@@ -28,7 +28,7 @@ class FriendsListFragment : Fragment() {
     }
 
 
-    //네비게이션 컨트롤이 완전히 연결된 시점
+    //네비게이션 컨트롤이 완전히 연결된 시점.
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
